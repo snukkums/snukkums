@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snukkums, my real name is David.
 - 👀 I’m interested in all things tech, I love tinkering with my raspberry pi's and trying new things with them.
-- 🌱 I’m currently learning More about git commands and working on bash scripting.
+- 🌱 I’m currently learning more about git commands and working on bash scripting.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
